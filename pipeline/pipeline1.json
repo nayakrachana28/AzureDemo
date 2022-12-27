@@ -6,7 +6,11 @@
 				"name": "Wait1",
 				"type": "Wait",
 				"dependsOn": [],
-				"userProperties": [],
+				"userProperties": [
+					{
+						"name": "Filename"
+					}
+				],
 				"typeProperties": {
 					"waitTimeInSeconds": 1
 				}
