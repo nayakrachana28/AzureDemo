@@ -1,0 +1,9 @@
+{
+	"name": "azurefactory-demo",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2ab33003-4875-4721-ba8c-ab262be895f8",
+		"tenantId": "4a72aae0-c96f-4ed3-a66a-7eba3188698d"
+	}
+}
